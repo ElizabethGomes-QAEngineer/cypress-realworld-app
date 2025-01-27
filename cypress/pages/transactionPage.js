@@ -57,7 +57,7 @@ class transactionPage {
     acessBankAccountPage() {
 
         
-              cy.get(this.selectorsList().bankAccounts).click()
+              cy.get(this.selectorsList().bankAccounts).click({force: true})
 
                         
      }

@@ -3,7 +3,7 @@ class loginPage {
     getUserData() {
         return{  
 
-           userSucess:{username:'automacaoelizabeth@gmail.com' , password:'1234'} ,
+           userSucess:{username:'jailsonnascimento.borracheiro@gmail.com' , password:'1234'} ,
            userFail:{username:'test' , password:'test'}
           
         } }

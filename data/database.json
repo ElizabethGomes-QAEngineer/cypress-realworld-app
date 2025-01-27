@@ -74,6 +74,28 @@
       "balance": 49474,
       "createdAt": "2023-12-07T04:39:38.383Z",
       "modifiedAt": "2024-03-07T00:07:36.510Z"
+    },
+    {
+      "id": "mRYjkNDe0",
+      "uuid": "5954c6f5-d8a2-4593-a81f-926b6d1dc05e",
+      "firstName": "eLIZABETH",
+      "lastName": "gIOMES",
+      "username": "automacaoelizabeth@gmail.com",
+      "password": "$2a$10$6dt/FP88t1RRqevOTP8JLeAB4KvvtQJi7n7H7KgFKkiaF.QFfgv4e",
+      "balance": 0,
+      "createdAt": "2025-01-27T14:18:38.848Z",
+      "modifiedAt": "2025-01-27T14:18:38.848Z"
+    },
+    {
+      "id": "iSa13dd5F",
+      "uuid": "7578660a-80cc-4aaa-bb7b-53a384ab7220",
+      "firstName": "Jailson",
+      "lastName": "Nascimento",
+      "username": "jailsonnascimento.borracheiro@gmail.com",
+      "password": "$2a$10$1QA2jYcsIVbHo5c0eYm.w.S2hboml/RSGJrG6/i7jMim9jgapQwaq",
+      "balance": 100000,
+      "createdAt": "2025-01-27T14:24:14.601Z",
+      "modifiedAt": "2025-01-27T14:24:14.601Z"
     }
   ],
   "contacts": [
@@ -253,6 +275,28 @@
       "isDeleted": false,
       "createdAt": "2024-01-26T14:01:01.815Z",
       "modifiedAt": "2024-03-07T08:44:31.174Z"
+    },
+    {
+      "id": "2YJZsL8J1",
+      "uuid": "db08ea73-b45b-49a7-b4a8-e023fb5c0feb",
+      "userId": "mRYjkNDe0",
+      "bankName": "00000",
+      "accountNumber": "000000000",
+      "routingNumber": "000000000",
+      "isDeleted": false,
+      "createdAt": "2025-01-27T14:23:26.129Z",
+      "modifiedAt": "2025-01-27T14:23:26.129Z"
+    },
+    {
+      "id": "79mZG813m",
+      "uuid": "b0ddeef8-310d-4ccb-8fc6-e6fed9258833",
+      "userId": "iSa13dd5F",
+      "bankName": "12345",
+      "accountNumber": "112113114",
+      "routingNumber": "000000000",
+      "isDeleted": false,
+      "createdAt": "2025-01-27T14:27:43.168Z",
+      "modifiedAt": "2025-01-27T14:27:43.168Z"
     }
   ],
   "transactions": [
@@ -9855,6 +9899,28 @@
       "requestResolvedAt": "",
       "createdAt": "2023-11-10T07:15:28.127Z",
       "modifiedAt": "2024-03-07T21:58:09.668Z"
+    },
+    {
+      "id": "-hxOluLKx",
+      "uuid": "3b927512-59e3-4b1e-ba80-5bcd1dd58346",
+      "amount": 100000,
+      "description": "car wash",
+      "receiverId": "uBmeaz5pX",
+      "senderId": "iSa13dd5F",
+      "status": "complete",
+      "createdAt": "2025-01-27T14:28:00.919Z",
+      "modifiedAt": "2025-01-27T14:28:00.919Z"
+    },
+    {
+      "id": "2hDtUR7tI",
+      "uuid": "ff345ea7-75fa-487e-bdd7-23e989b99eb9",
+      "amount": -100000,
+      "description": "saldo Insuficiente",
+      "receiverId": "uBmeaz5pX",
+      "senderId": "iSa13dd5F",
+      "status": "complete",
+      "createdAt": "2025-01-27T14:28:10.015Z",
+      "modifiedAt": "2025-01-27T14:28:10.015Z"
     }
   ],
   "likes": [
@@ -10431,6 +10497,26 @@
       "isRead": false,
       "createdAt": "2024-02-01T18:53:45.699Z",
       "modifiedAt": "2024-03-07T17:13:52.110Z"
+    },
+    {
+      "id": "VQCWMdxYFd",
+      "uuid": "72797c3e-073e-47e5-be91-e8ae86b06e48",
+      "userId": "uBmeaz5pX",
+      "transactionId": "-hxOluLKx",
+      "status": "received",
+      "isRead": false,
+      "createdAt": "2025-01-27T14:28:00.941Z",
+      "modifiedAt": "2025-01-27T14:28:00.941Z"
+    },
+    {
+      "id": "yqeUqhOF5b",
+      "uuid": "a4ec8f83-a906-44a6-aae4-c18d60beb62f",
+      "userId": "uBmeaz5pX",
+      "transactionId": "2hDtUR7tI",
+      "status": "received",
+      "isRead": false,
+      "createdAt": "2025-01-27T14:28:10.030Z",
+      "modifiedAt": "2025-01-27T14:28:10.030Z"
     }
   ],
   "banktransfers": [
@@ -10983,6 +11069,16 @@
       "transactionId": "gaggAe7wNoiC",
       "createdAt": "2023-03-24T22:18:19.407Z",
       "modifiedAt": "2024-03-07T13:32:42.472Z"
+    },
+    {
+      "id": "rbhs1YJiw0",
+      "uuid": "e2fc5b3d-9ee4-410e-b408-4669f9582f1e",
+      "userId": "iSa13dd5F",
+      "amount": 100000,
+      "transactionId": "-hxOluLKx",
+      "type": "withdrawal",
+      "createdAt": "2025-01-27T14:28:00.925Z",
+      "modifiedAt": "2025-01-27T14:28:00.925Z"
     }
   ]
 }
