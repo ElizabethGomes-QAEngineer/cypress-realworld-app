@@ -1,4 +1,4 @@
-# RWA - Real World App de Transações Financeiras
+# RWA - Real World App / Transações Financeiras
 
 ![Texto alternativo](cypress-realworld-app.png)
 
