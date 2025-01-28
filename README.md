@@ -21,6 +21,23 @@ Para rodar este projeto, você precisará das seguintes ferramentas instaladas:
 
 ## ⚙️ Installar
 
+> **💡 NOTA:** È necessário fazer o registro antes de rodar a automação no site a baixo.
+>
+>**[Clique aqui para realizar registro, antes de rodar a automação ](http://localhost:3000/signup)**
+>
+
+**1.**Use as Informações abaixo para o registro, caso use outras informações a automação não funcionará**
+
+ outros dados requisitados pode ser aleatório
+
+```bash
+jailsonnascimento.borracheiro@gmail.com
+```
+**2.**Senha**
+
+```bash
+1234
+```
 
 ### Instalação do Yarn Classic
 
