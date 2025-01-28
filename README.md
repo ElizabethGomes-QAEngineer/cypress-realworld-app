@@ -1,4 +1,4 @@
-# Automação Cypress JavaScript Orange HRM com CI
+# RWA - Real World App automação com cypress
 
 ![Texto alternativo](cypress-realworld-app.png)
 
