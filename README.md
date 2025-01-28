@@ -31,7 +31,7 @@ Para rodar este projeto, você precisará das seguintes ferramentas instaladas:
 > 
 >## Use as Informações abaixo para o registro.
 > 
->Caso use outras informações a automação não funcionará ,outros dados requisitados pode ser colocados aleatóriamente**
+>Caso use outras informações a automação não funcionará, outros dados requisitados pode ser colocados aleatóriamente**
 >
 
 
