@@ -6,7 +6,7 @@ Automação E2E com Cypress para o sistema RWA app, utilizando a arquitetura Pag
 
 ## Como acessar os testes e pages Objects neste projeto** 
 
-> As páginas estão localizadas com o nome **"pages"** e os **specs** estão localizados na pasta **tests** dentro da subpasta **"ui"**
+> Dentro da pasta **cypress** as páginas estão localizadas com o nome **"pages"** e os **specs** estão localizados na pasta **tests** dentro da subpasta **"ui"**
 
 
 ## Pré-requisitos
