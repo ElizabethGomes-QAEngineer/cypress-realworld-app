@@ -25,7 +25,7 @@ Para rodar este projeto, você precisará das seguintes ferramentas instaladas:
 
 ## ⚙️ Installar
 
-> **💡 NOTA:** È necessário fazer o registro antes de rodar a automação no site a baixo.
+> **💡 NOTA:** É necessário fazer o registro antes de rodar a automação no site a baixo.
 >
 >**[Clique aqui para realizar registro, antes de rodar a automação ](http://localhost:3000/signup)**
 > 
