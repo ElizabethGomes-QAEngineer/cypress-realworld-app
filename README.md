@@ -1,6 +1,6 @@
 # Automação Cypress JavaScript Orange HRM com CI
 
-![Texto alternativo](OrangeHRM.png)
+![Texto alternativo](cypress-realworld-app.png)
 
 Automação E2E com Cypress para o sistema RWA app, utilizando a arquitetura Page Objects. Testes implementados para os módulos Login, Registro, Transações Financeiras com saldo Positivo e saldo Negativo e verificação de histórico de transações realizadas com foco em escalabilidade e manutenção fácil. O projeto demonstra boas práticas em automação de testes e estruturas reutilizáveis, garantindo eficiência e qualidade.
 
