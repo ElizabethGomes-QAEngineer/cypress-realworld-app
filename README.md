@@ -1,4 +1,4 @@
-# RWA - Real World App Automação com Cypress
+# RWA - Real World App de Transações Financeiras
 
 ![Texto alternativo](cypress-realworld-app.png)
 
