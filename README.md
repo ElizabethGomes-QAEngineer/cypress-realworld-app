@@ -1,4 +1,4 @@
-# RWA - Real World App automação com cypress
+# RWA - Real World App Automação com Cypress
 
 ![Texto alternativo](cypress-realworld-app.png)
 
