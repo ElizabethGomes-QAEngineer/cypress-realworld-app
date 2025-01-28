@@ -24,16 +24,18 @@ Para rodar este projeto, você precisará das seguintes ferramentas instaladas:
 > **💡 NOTA:** È necessário fazer o registro antes de rodar a automação no site a baixo.
 >
 >**[Clique aqui para realizar registro, antes de rodar a automação ](http://localhost:3000/signup)**
+> 
+>## Use as Informações abaixo para o registro.
+> 
+>Caso use outras informações a automação não funcionará ,outros dados requisitados pode ser colocados aleatóriamente**
 >
 
-**1.**Use as Informações abaixo para o registro, caso use outras informações a automação não funcionará**
 
- outros dados requisitados pode ser aleatório
-
+**1.** **E-mail**
 ```bash
 jailsonnascimento.borracheiro@gmail.com
 ```
-**2.**Senha**
+**2.** **Senha**
 
 ```bash
 1234
