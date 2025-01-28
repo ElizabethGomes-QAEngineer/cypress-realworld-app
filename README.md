@@ -2,15 +2,19 @@
 
 ![Texto alternativo](OrangeHRM.png)
 
+Automação E2E com Cypress para o sistema RWA app, utilizando a arquitetura Page Objects. Testes implementados para os módulos Login, Registro, Transações Financeiras com saldo Positivo e saldo Negativo e verificação de histórico de transações realizadas com foco em escalabilidade e manutenção fácil. O projeto demonstra boas práticas em automação de testes e estruturas reutilizáveis, garantindo eficiência e qualidade.
 
+## Como acessar os testes e pages Objects neste projeto** 
+
+> As paginas estão localizadas com o nome **"pages"** e os **specs** estão localizados na pasta **tests** dentro da subpasta **"ui"**
 
 
 ## Pré-requisitos
 
 Para rodar este projeto, você precisará das seguintes ferramentas instaladas:
 
-- [Node.js](https://nodejs.org/) (versão LTS recomendada)
-- [Yarn Classic](https://classic.yarnpkg.com/lang/en/) (versão 1)
+- [Node.js](https://nodejs.org/) Clique para fazer o download 
+- [Yarn Classic](https://classic.yarnpkg.com/lang/en/) 
 
   
 
@@ -92,7 +96,7 @@ yarn cypress:open
 
 
 
-Automação E2E com Cypress para o sistema OrangeHRM, utilizando a arquitetura Page Objects. Testes implementados para os módulos Login, Dashboard e My Info, com foco em escalabilidade e manutenção fácil. O projeto demonstra boas práticas em automação de testes e estruturas reutilizáveis, garantindo eficiência e qualidade.
+
 
 
 
